@@ -1,3 +1,3 @@
 <footer>
-	&copy; 2020 XXXX
+	&copy; 2023 株式会社 日本自動車
 </footer>
